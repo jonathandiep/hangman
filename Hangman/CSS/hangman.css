@@ -1,0 +1,12 @@
+﻿body {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+form {
+    padding-top: 50px;
+}
+
+div form div {
+    padding-top:20px;
+}
